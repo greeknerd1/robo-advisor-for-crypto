@@ -1,6 +1,6 @@
-# crypto-portfolio-advisor
+# robo-advisor-for-crypto
 ## Sample Dashboard
-Crypto Portfolio Advisor is a cryptocurrency portfo risk and recommendation tool powered by machine learning algorithm and front-end web services that aims for helping different levels of investors to achieve a more reliable cryptocurrency investment solution. This project was designed by the Crypto Robo Advisor team from UC Berkeley Data-X course. This project is mentored and advised by CEO of Anchain.ai, Victor Fang.
+Robo-Advisor for Crypto is a cryptocurrency portfo risk and recommendation tool powered by machine learning and a front-end web services that aims to help newbie and experienced investors make smart, reliable cryptocurrency investment solution. This project was designed by the Robo-Advisor for Crypto team for UC Berkeley's Data-X course, mentored and advised by the CEO of Anchain.ai, Victor Fang.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/39391660/144360945-fc017110-767c-4b2b-bb34-068eedb318ce.gif)
 
