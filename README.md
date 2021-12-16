@@ -1,6 +1,6 @@
-# robo-advisor-for-crypto
+# Robo-Advisor for Crypto
 ## Sample Dashboard
-Robo-Advisor for Crypto is a cryptocurrency portfo risk and recommendation tool powered by machine learning and a front-end web services that aims to help newbie and experienced investors make smart, reliable cryptocurrency investment solution. This project was designed by the Robo-Advisor for Crypto team for UC Berkeley's Data-X course, mentored and advised by the CEO of Anchain.ai, Victor Fang.
+Robo-Advisor for Crypto is a cryptocurrency portfolio risk and recommendation tool utilizing machine learning algorithms (SARIMAX) and a front-end web service (Anvil) that aims to help newbie and experienced investors make smart, reliable cryptocurrency investments. This project was designed by the Robo-Advisor for Crypto team during UC Berkeley's Data-X course, and was mentored and advised by the CEO of Anchain.ai, Victor Fang.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/39391660/144360945-fc017110-767c-4b2b-bb34-068eedb318ce.gif)
 
@@ -71,7 +71,7 @@ We use **crypto-markets.csv**
   - This information gives new investors a list of cryptocurrencies to potentially invest in and accompanying graphs to show the reason the portfolio’s risk is evaluated the way it is
 
 ## Built with
-- anvil
+- Anvil
 - Beautiful Soup
 - plotly
 - SARIMAX
